@@ -6,3 +6,5 @@ Phishing is a common scam that attempts to lure you into giving up your username
 Phishing is a type of cyber attack that leverages social engineering techniques. It manipulates you into giving away private information by impersonating a trusted person or company like a bank or colleague.
 Phishing attacks can happen via email, phone calls, texts and social media. They are designed to bait you into clicking on a malicious link or opening a malicious file.
 A more sophisticated type of phishing attack is known as spear fishing. This attack is targeted towards a specific person, making it more believable and effective.
+
+# Learn to spot phishing emails
